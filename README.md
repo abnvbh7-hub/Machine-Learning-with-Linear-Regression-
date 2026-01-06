@@ -11,7 +11,8 @@ This project covers the complete pipeline—from **data scraping and cleaning** 
 - 🧹 Cleans and preprocesses noisy market data  
 - 📊 Performs exploratory data analysis (EDA) and visualization  
 - 📈 Applies **Linear Regression** for price prediction  
-- 🔍 Analyzes market trends for data-driven insights  
+- 🔍 Analyzes market trends for data-driven insights
+- 🔍 Interactive plotting of data
 
 ---
 
@@ -45,7 +46,7 @@ This project covers the complete pipeline—from **data scraping and cleaning** 
 
 - **Python**
 - **Pandas, NumPy**
-- **Matplotlib / Seaborn**
+- **Plotly**
 - **Scikit-learn**
 
 ---
