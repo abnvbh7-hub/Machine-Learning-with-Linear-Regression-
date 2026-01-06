@@ -53,9 +53,7 @@ This project covers the complete pipeline—from **data scraping and cleaning** 
 ### ⚠️ Limitations & Future Work
 
 - Linear regression assumes linear relationships
-- 
 - External factors like weather and demand are not included
-- 
 - Future work may involve **time-series models** or **ensemble methods**
 
 ---
