@@ -5,6 +5,24 @@ This project covers the complete pipeline—from **data scraping and cleaning** 
 
 ---
 
+## 📊 Visual Insights
+
+### 📈 Modal Price Trend
+<img width="1512" height="525" src="https://github.com/user-attachments/assets/359e9446-cfe6-4cb6-b5ba-91bced2931c7" />
+
+---
+
+### 🔗 Correlation Heatmap (Feature Selection)
+<img width="1512" height="525" src="https://github.com/user-attachments/assets/39e56240-d4a8-43bf-bd23-63de06783c43" />
+
+---
+
+### 🎯 Predicted vs Actual Prices
+<img width="1512" height="525" src="https://github.com/user-attachments/assets/a5b54123-a949-4d69-b9ba-c36b37524fe8" />
+
+---
+
+
 ### 🚀 What This Project Does
 
 - 📥 Scrapes real-world tomato price data from public sources  
@@ -22,23 +40,6 @@ This project covers the complete pipeline—from **data scraping and cleaning** 
 - Used **correlation analysis** for feature selection  
 - Visualized trends, relationships, and prediction accuracy  
 - Worked with **real agricultural market data**, not synthetic datasets  
-
----
-
-## 📊 Visual Insights
-
-### 📈 Modal Price Trend
-<img width="1512" height="525" src="https://github.com/user-attachments/assets/359e9446-cfe6-4cb6-b5ba-91bced2931c7" />
-
----
-
-### 🔗 Correlation Heatmap (Feature Selection)
-<img width="1512" height="525" src="https://github.com/user-attachments/assets/39e56240-d4a8-43bf-bd23-63de06783c43" />
-
----
-
-### 🎯 Predicted vs Actual Prices
-<img width="1512" height="525" src="https://github.com/user-attachments/assets/a5b54123-a949-4d69-b9ba-c36b37524fe8" />
 
 ---
 
